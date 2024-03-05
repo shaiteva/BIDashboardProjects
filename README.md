@@ -4,9 +4,9 @@
 <h2>Utilities Used</h2>
 
 - <b>Pyton</b>
-<br>TAKINTER<br>
-<br>PANDAS<br>
-<br>MATLOLIB<br>
+<br>Tkinter<br>
+<br>Pandas<br>
+<br>Matplotlib<br>
 
 - <b>Excel</b>
 
